@@ -68,7 +68,7 @@
 9、逻辑运算符:== && || !<br>
 
 10、循环语句#foreach($var in $arrays ) // 集合包含下面三种Vector, a Hashtable or an Array<br>
-#end<br>
+    #end<br>
 　　#foreach( $product in $allProducts )<br>
 　　 <li>$product</li><br>
 　　#end<br>
